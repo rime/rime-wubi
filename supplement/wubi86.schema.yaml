@@ -5,7 +5,7 @@
 schema:
   schema_id: wubi86
   name: "五笔86"
-  version: "0.4"
+  version: "0.5"
 
 switches:
   - name: ascii_mode
@@ -44,7 +44,7 @@ reverse_lookup:
   prefix: "`"
   tips: 〔拼音〕
   preedit_format:
-    - xform/([nl])v/$1ü/
+    - xform/([nljqxy])v/$1ü/
 
 punctuator:
   import_preset: default
