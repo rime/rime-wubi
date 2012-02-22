@@ -6,6 +6,11 @@ schema:
   schema_id: wubi86
   name: "五笔86"
   version: "0.5"
+  author:
+    - 發明人 王永民先生
+  description: |
+    五筆字型86版
+    碼表源自 ibus-table
 
 switches:
   - name: ascii_mode
