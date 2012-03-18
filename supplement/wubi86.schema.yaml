@@ -5,7 +5,7 @@
 schema:
   schema_id: wubi86
   name: "五笔86"
-  version: "0.5"
+  version: "0.6"
   author:
     - 發明人 王永民先生
   description: |
@@ -42,8 +42,7 @@ engine:
     - reverse_lookup_translator
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcba
-  delimiter: " ;'"
+  delimiter: " '"
   max_code_length: 4
 
 translator:
