@@ -41,6 +41,11 @@ engine:
     - table_translator
     - reverse_lookup_translator
 
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " ;'"
+  max_code_length: 4
+
 translator:
   dictionary: wubi86
 
