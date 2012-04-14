@@ -11,6 +11,7 @@ schema:
   description: |
     五筆字型86版
     碼表源自 ibus-table
+    請安裝【袖珍簡化字拼音】以啓用 z 鍵拼音反查
 
 switches:
   - name: ascii_mode
