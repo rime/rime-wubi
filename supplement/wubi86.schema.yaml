@@ -5,7 +5,7 @@
 schema:
   schema_id: wubi86
   name: "五笔86"
-  version: "0.8"
+  version: "0.9"
   author:
     - 發明人 王永民先生
   description: |
@@ -37,7 +37,6 @@ engine:
     - punct_segmentor
     - fallback_segmentor
   translators:
-    - echo_translator
     - punct_translator
     - table_translator
     - reverse_lookup_translator
