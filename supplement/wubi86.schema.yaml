@@ -5,7 +5,7 @@
 schema:
   schema_id: wubi86
   name: "五笔86"
-  version: "0.9"
+  version: "0.10"
   author:
     - 發明人 王永民先生
   description: |
@@ -42,15 +42,19 @@ engine:
     - reverse_lookup_translator
 
 speller:
-  delimiter: " '"
-  max_code_length: 4
+  delimiter: " ;'"
+  #max_code_length: 4
 
 translator:
   dictionary: wubi86
 
+abc_segmentor:
+  extra_tags:
+    - reverse_lookup
+
 reverse_lookup:
   dictionary: pinyin_simp
-  prefix: "z"
+  prefix: "`"
   tips: 〔拼音〕
   preedit_format:
     - xform/([nljqxy])v/$1ü/
@@ -64,4 +68,4 @@ key_binder:
 recognizer:
   import_preset: default
   patterns:
-    reverse_lookup: "z[a-z]*$"
+    reverse_lookup: "`[a-z]*$"
