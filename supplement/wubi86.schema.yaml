@@ -5,13 +5,15 @@
 schema:
   schema_id: wubi86
   name: "五笔86"
-  version: "0.12"
+  version: "0.13"
   author:
     - 發明人 王永民先生
   description: |
     五筆字型86版
     碼表源自 ibus-table
-    請安裝【袖珍簡化字拼音】以啓用 z 鍵拼音反查
+    敲 z 鍵進入拼音反查
+  dependencies:
+    - pinyin_simp
 
 switches:
   - name: ascii_mode
