@@ -5,7 +5,7 @@
 schema:
   schema_id: wubi_pinyin
   name: "五笔・拼音"
-  version: "0.2"
+  version: "0.3"
   author:
     - 發明人 王永民先生
   description: |
@@ -52,6 +52,8 @@ translator:
   dictionary: wubi86
   prism: wubi_pinyin
   enable_charset_filter: true
+  disable_user_dict_for_patterns:
+    - "^z.*$"
 
 abc_segmentor:
   extra_tags:

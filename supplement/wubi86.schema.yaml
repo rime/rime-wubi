@@ -5,7 +5,7 @@
 schema:
   schema_id: wubi86
   name: "五笔86"
-  version: "0.13"
+  version: "0.14"
   author:
     - 發明人 王永民先生
   description: |
@@ -52,6 +52,8 @@ speller:
 translator:
   dictionary: wubi86
   enable_charset_filter: true
+  disable_user_dict_for_patterns:
+    - "^z.*$"
 
 reverse_lookup:
   dictionary: pinyin_simp
