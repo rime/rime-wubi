@@ -1,6 +1,6 @@
 # Rime dictionary: wubi86
 # encoding: utf-8
-# 
+#
 # Changelog
 # Gong Chen <chen.sst@gmail.com>
 #     - Convert to Rime dictionary format.
@@ -19,7 +19,7 @@
 
 ---
 name: wubi86
-version: "0.2"
+version: "0.3"
 sort: by_weight
 ...
 
@@ -136793,27 +136793,28 @@ nm	zzdw	895
 ⅷ	zzxl	474
 ⅸ	zzxl	473
 ⅹ	zzxl	472
-β	zzxx	471
-γ	zzxx	470
-δ	zzxx	469
-ε	zzxx	468
-ζ	zzxx	467
-η	zzxx	466
-α	zzxx	465
-ι	zzxx	464
-κ	zzxx	463
-λ	zzxx	462
-μ	zzxx	461
-ν	zzxx	460
-ξ	zzxx	459
-ο	zzxx	458
-π	zzxx	457
-ρ	zzxx	456
-σ	zzxx	455
-τ	zzxx	454
-υ	zzxx	453
-φ	zzxx	452
-θ	zzxx	451
+α	zzxx	471
+β	zzxx	470
+γ	zzxx	469
+δ	zzxx	468
+ε	zzxx	467
+ζ	zzxx	466
+η	zzxx	465
+θ	zzxx	454
+ι	zzxx	463
+κ	zzxx	462
+λ	zzxx	461
+μ	zzxx	460
+ν	zzxx	459
+ξ	zzxx	458
+ο	zzxx	457
+π	zzxx	456
+ρ	zzxx	455
+σ	zzxx	454
+τ	zzxx	453
+υ	zzxx	452
+φ	zzxx	451
+χ	zzxx	450.5
 ψ	zzxx	450
 ω	zzxx	449
 ①	zzys	448
