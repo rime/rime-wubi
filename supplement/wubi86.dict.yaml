@@ -19,7 +19,7 @@
 
 ---
 name: wubi86
-version: "0.3"
+version: "0.4"
 sort: by_weight
 ...
 
@@ -136421,13 +136421,12 @@ nm	zzdw	895
 ⒅	zzfs	846
 ⒆	zzfs	845
 ⒇	zzfs	844
-	zzhb	843
-€	zzhb	842
-＄	zzhb	841
-￠	zzhb	840
-￡	zzhb	839
-￥	zzhb	838
-¤	zzhb	837
+€	zzhb	843
+＄	zzhb	842
+￠	zzhb	841
+￡	zzhb	840
+￥	zzhb	839
+¤	zzhb	838
 ァ	zzjp	836
 ア	zzjp	835
 ィ	zzjp	834
@@ -136539,41 +136538,41 @@ nm	zzdw	895
 が	zzpj	728
 き	zzpj	727
 ぎ	zzpj	726
-ぱ	zzpj	725
-く	zzpj	724
-ぐ	zzpj	723
-け	zzpj	722
-げ	zzpj	721
-こ	zzpj	720
-ご	zzpj	719
-さ	zzpj	718
-ざ	zzpj	717
-し	zzpj	716
-じ	zzpj	715
-す	zzpj	714
-ず	zzpj	713
-せ	zzpj	712
-ぜ	zzpj	711
-そ	zzpj	710
-ぞ	zzpj	709
-た	zzpj	708
-だ	zzpj	707
-ち	zzpj	706
-ぢ	zzpj	705
-っ	zzpj	704
-つ	zzpj	703
-づ	zzpj	702
-て	zzpj	701
-で	zzpj	700
-と	zzpj	699
-ど	zzpj	698
-な	zzpj	697
-に	zzpj	696
-ぬ	zzpj	695
-ね	zzpj	694
-の	zzpj	693
-は	zzpj	692
-ば	zzpj	691
+く	zzpj	725
+ぐ	zzpj	724
+け	zzpj	723
+げ	zzpj	722
+こ	zzpj	721
+ご	zzpj	720
+さ	zzpj	719
+ざ	zzpj	718
+し	zzpj	717
+じ	zzpj	716
+す	zzpj	715
+ず	zzpj	714
+せ	zzpj	713
+ぜ	zzpj	712
+そ	zzpj	711
+ぞ	zzpj	710
+た	zzpj	709
+だ	zzpj	708
+ち	zzpj	707
+ぢ	zzpj	706
+っ	zzpj	705
+つ	zzpj	704
+づ	zzpj	703
+て	zzpj	702
+で	zzpj	701
+と	zzpj	700
+ど	zzpj	699
+な	zzpj	698
+に	zzpj	697
+ぬ	zzpj	696
+ね	zzpj	695
+の	zzpj	694
+は	zzpj	693
+ば	zzpj	692
+ぱ	zzpj	691
 ひ	zzpj	690
 び	zzpj	689
 ぴ	zzpj	688
