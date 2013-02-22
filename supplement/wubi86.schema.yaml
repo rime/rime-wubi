@@ -4,7 +4,7 @@
 schema:
   schema_id: wubi86
   name: "五笔86"
-  version: "0.15"
+  version: "0.16"
   author:
     - 發明人 王永民先生
   description: |
@@ -60,7 +60,9 @@ reverse_lookup:
   suffix: "'"
   tips: 〔拼音〕
   preedit_format:
-    - xform/([nljqxy])v/$1ü/
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
 
 punctuator:
   import_preset: default

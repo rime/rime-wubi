@@ -4,7 +4,7 @@
 schema:
   schema_id: wubi_pinyin
   name: "五笔・拼音"
-  version: "0.4"
+  version: "0.5"
   author:
     - 發明人 王永民先生
   description: |
@@ -64,7 +64,9 @@ reverse_lookup:
   suffix: "'"
   tips: 〔拼音〕
   preedit_format:
-    - xform/([nljqxy])v/$1ü/
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
 
 punctuator:
   import_preset: default
