@@ -3,8 +3,8 @@
 
 schema:
   schema_id: wubi_pinyin
-  name: "五笔・拼音"
-  version: "0.6"
+  name: "五笔·拼音"
+  version: "0.7"
   author:
     - 發明人 王永民先生
   description: |
@@ -45,7 +45,7 @@ engine:
 
 speller:
   delimiter: " ;'"
-  #max_code_length: 4
+  #max_code_length: 4  # 四碼頂字上屏
 
 translator:
   dictionary: wubi86

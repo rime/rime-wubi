@@ -3,8 +3,8 @@
 
 schema:
   schema_id: wubi_trad
-  name: "五筆・簡入繁出"
-  version: "0.3"
+  name: "五筆·簡入繁出"
+  version: "0.4"
   author:
     - 發明人 王永民先生
     - 輸入方案製作 佛振 <chen.sst@gmail.com>
