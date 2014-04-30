@@ -4,7 +4,7 @@
 schema:
   schema_id: wubi_pinyin
   name: "五笔·拼音"
-  version: "0.8"
+  version: "0.9"
   author:
     - 發明人 王永民先生
   description: |
@@ -19,10 +19,10 @@ switches:
     states: [ 中文, 西文 ]
   - name: full_shape
     states: [ 半角, 全角 ]
-  - name: ascii_punct
-    states: [ ，。, ，． ]
   - name: extended_charset
-    states: [ 通用, 增廣 ]
+    states: [ 常用, 增廣 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
 
 engine:
   processors:

@@ -4,7 +4,7 @@
 schema:
   schema_id: wubi_trad
   name: 五筆·簡入繁出
-  version: "0.5"
+  version: "0.6"
   author:
     - 發明人 王永民先生
     - 輸入方案製作 佛振 <chen.sst@gmail.com>
@@ -20,13 +20,13 @@ switches:
     states: [ 中文, 西文 ]
   - name: full_shape
     states: [ 半角, 全角 ]
-  - name: ascii_punct
-    states: [ ，。, ，． ]
   - name: extended_charset
-    states: [ 通用, 增廣 ]
+    states: [ 常用, 增廣 ]
   - name: zh_trad
     reset: 1
     states: [ 简体, 繁體 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
 
 engine:
   processors:

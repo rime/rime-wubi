@@ -4,7 +4,7 @@
 schema:
   schema_id: wubi86
   name: "五笔86"
-  version: "0.20"
+  version: "0.21"
   author:
     - 發明人 王永民先生
   description: |
@@ -20,10 +20,10 @@ switches:
     states: [ 中文, 西文 ]
   - name: full_shape
     states: [ 半角, 全角 ]
-  - name: ascii_punct
-    states: [ ，。, ，． ]
   - name: extended_charset
-    states: [ 通用, 增廣 ]
+    states: [ 常用, 增廣 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
 
 engine:
   processors:
