@@ -4,7 +4,7 @@
 schema:
   schema_id: wubi_trad
   name: 五筆·簡入繁出
-  version: "0.6"
+  version: "0.7"
   author:
     - 發明人 王永民先生
     - 輸入方案製作 佛振 <chen.sst@gmail.com>
@@ -78,7 +78,7 @@ reverse_lookup:
     - xform/([jqxy])v/$1u/
 
 simplifier:
-  opencc_config: zhs2zht.ini
+  opencc_config: s2t.json
   option_name: zh_trad
 
 punctuator:
