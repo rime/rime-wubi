@@ -19,7 +19,7 @@
 
 ---
 name: wubi86
-version: "0.6"
+version: "0.7"
 sort: by_weight
 columns:
   - text
@@ -191,7 +191,7 @@ encoder:
 肛	ea	215398
 服	eb	56554372
 肥	ec	5099024
-須	ed	263052
+须	ed	76400000
 朋	ee	34234943
 肝	ef	1917614
 且	eg	66296844
