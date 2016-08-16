@@ -1,0 +1,9 @@
+
+Derived from ibus-table by acevery (Yu Yuwei) : (LGPL)
+and based on original work by 王永民 / Wang Yongmin : (Public Domain)
+  wubi86.dict.yaml
+
+Gong Chen <chen.sst@gmail.com> : (LGPL)
+  wubi86.schema.yaml
+  wubi_pinyin.schema.yaml
+  wubi_trad.schema.yaml
