@@ -2,7 +2,7 @@
 
 配方： ℞ **wubi**
 
-[Rime](http://rime.im) 五筆字型輸入方案
+[Rime](https://rime.im) 五筆字型輸入方案
 
 五筆字型 86 版
 
